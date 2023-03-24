@@ -10,7 +10,6 @@ const PlaceDetails = ({ place ,selected , refProp}) => {
     const classes = useStyles();
 
     if(selected) refProp?.current?.scrollIntoView({  behaviour:'smooth' ,block :'start'  });
-
     return (
         <Card elevation={6}>
             <CardMedia style={{ height: 350 }}
@@ -21,7 +20,7 @@ const PlaceDetails = ({ place ,selected , refProp}) => {
                 <Typography gutterBottom variant="h5">{place.name}</Typography>
                 <Box display="flex" justifyContent="space-between">
                     <Rating value={Number(place.rating)} readOnly />
-                    <Typography gutterBottom variant="caption">out of {place.num_review} reviews</Typography>
+                    <Typography gutterBottom variant="caption">out of {place.num_reviews} reviews</Typography>
                 </Box>
                 <Box display="flex" justifyContent="space-between">
                     <Typography variant="subtitle2">Price</Typography>
