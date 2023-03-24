@@ -6,7 +6,7 @@ export default makeStyles((theme) => ({
     [theme.breakpoints.up('sm')]: {
       display: 'block',
     },
-    fontFamily: 'Ubuntu'
+    fontFamily: 'Verdana'
   },
   search: {
     position: 'relative',
