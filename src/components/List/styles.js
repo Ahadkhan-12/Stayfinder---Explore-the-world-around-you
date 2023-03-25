@@ -18,5 +18,5 @@ export default makeStyles((theme) => ({
   },
   list: {
     height: '75vh', overflow: 'auto',
-  },
+  }
 }));
