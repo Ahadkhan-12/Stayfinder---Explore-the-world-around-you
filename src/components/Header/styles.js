@@ -30,4 +30,8 @@ export default makeStyles((theme) => ({
   toolbar: {
     display: 'flex', justifyContent: 'space-between',backgroundColor: '#0F4C81'
   },
+  icon:{
+    height: "23px",
+    paddingRight :"4px",
+  }
 }));
