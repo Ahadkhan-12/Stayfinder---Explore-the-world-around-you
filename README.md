@@ -1,5 +1,5 @@
 # Google Map Companion
-[Site Demo](https://stayfinder-explore.netlify.app/)
+[Stayfinder Demo](https://stayfinder-explore.netlify.app/)
 
 ![](assets/Front.png)
 
@@ -18,7 +18,11 @@ Fully-responsive travel companion app built by combining **Google Maps API**, **
 
 
 
-https://user-images.githubusercontent.com/72428146/227988139-33eda8d1-9410-4b37-b0dd-17d399636f8f.mp4
+
+https://user-images.githubusercontent.com/72428146/227994167-1e6315cc-b9ee-4e36-a0d1-d28881f50d56.mp4
+
+
+
 
 
 
