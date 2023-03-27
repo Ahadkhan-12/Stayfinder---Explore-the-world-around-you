@@ -16,7 +16,10 @@ Fully-responsive travel companion app built by combining **Google Maps API**, **
 - search for the restaurants ,Hotels and attractions
 - filter by ratings
 
-https://github.com/Ahadkhan-12/Stayfinder---Explore-the-world-around-you/blob/ce955a43accbde0bbe2223c254a534eeae7b25f2/assets/Demo_video.mp4
+
+
+https://user-images.githubusercontent.com/72428146/227988139-33eda8d1-9410-4b37-b0dd-17d399636f8f.mp4
+
 
 
 ## Dependencies
