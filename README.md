@@ -13,10 +13,8 @@ Fully-responsive travel companion app built by combining **Google Maps API**, **
 ## Demo Videos
 
 ### Desktop demo
-- search for the restaurants ,Hotels and attractions
-- filter by ratings
-
-
+- Search anywhere in earth for the restaurants , Hotels and attractions. [Default : User Location]
+- Filter by ratings
 
 
 https://user-images.githubusercontent.com/72428146/227994167-1e6315cc-b9ee-4e36-a0d1-d28881f50d56.mp4
