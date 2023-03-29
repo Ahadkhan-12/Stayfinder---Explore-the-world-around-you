@@ -1,5 +1,5 @@
 # Google Map Companion
-[Stayfinder Demo](https[:]//stayfinder-explore.netlify.app/)
+[Stayfinder Demo](https://stayfinder-explore.netlify.app/)
 
 ![](assets/Front.png)
 
