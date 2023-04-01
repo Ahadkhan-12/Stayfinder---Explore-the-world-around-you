@@ -1,5 +1,6 @@
 # Google Map Companion
 [Stayfinder Demo](https://stayfinder-explore.netlify.app/)
+
 **Location is Required for Loading of site**
 
 ![](assets/Front.png)
