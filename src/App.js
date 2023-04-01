@@ -35,6 +35,7 @@ const App = () => {
         setIsLoading(1);
         getPlacesData(type,bounds.sw,bounds.ne)
         .then((data) => {
+            console.log(data);
             setPlaces(data.filter((places) => places.name && places.num_reviews > 0));
             setFilteredPlaces([]);
             setIsLoading(0);
