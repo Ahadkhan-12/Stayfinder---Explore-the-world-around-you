@@ -4,6 +4,7 @@
 **Location is Required for Loading of site**
 
 ![FrontPage](assets/Front.png)
+<img width="959" alt="Front" src="https://user-images.githubusercontent.com/72428146/229586410-e430acfa-b493-475e-be32-5d1745d026cf.png">
 
 Fully-responsive travel companion app built by combining **Google Maps API**, **Travel Advisor API**. Built using React.js and Material UI, this app can be used to search for places, fetch restaurant, hotels and attractions based on location.
 
