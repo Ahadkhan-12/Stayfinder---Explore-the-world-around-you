@@ -3,7 +3,7 @@
 
 **Location is Required for Loading of site**
 
-![](assets/Front.png)
+![FrontPage](assets/Front.png)
 
 Fully-responsive travel companion app built by combining **Google Maps API**, **Travel Advisor API**. Built using React.js and Material UI, this app can be used to search for places, fetch restaurant, hotels and attractions based on location.
 
