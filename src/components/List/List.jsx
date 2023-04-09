@@ -13,7 +13,6 @@ const List = ({ places, childClicked, isLoading, type, setType, rating, setRatin
 
 
     useEffect(() => {
-        console.log(places);
         const refs = Array(places?.length).fill().map((_, i) => elRefs[i] || createRef());
         setElRefs(refs);
     }, [places]);
@@ -51,23 +50,23 @@ const List = ({ places, childClicked, isLoading, type, setType, rating, setRatin
                     <Grid container spacing={3} className={classes.list}>
 
                         {places.length === 0 ? (
-                              <Typography className={classes.nodata} variant="h4" >
+                            <Typography className={classes.noData} variant="h4" >
                                 No Record Found 😞
-                              </Typography> 
-                        ) 
-                        :     
-                        (
-                            places?.map((place, i) => (
-                                <Grid ref={elRefs[i]} item key={i} xs={12}>
-                                    <PlaceDetails
-                                        place={place}
-                                        selected={Number(childClicked) === i}
-                                        refProp={elRefs[i]}
-                                    />
-                                </Grid>
-    
-                            ))
-                        )}
+                            </Typography>
+                        )
+                            :
+                            (
+                                places?.map((place, i) => (
+                                    <Grid ref={elRefs[i]} item key={i} xs={12}>
+                                        <PlaceDetails
+                                            place={place}
+                                            selected={Number(childClicked) === i}
+                                            refProp={elRefs[i]}
+                                        />
+                                    </Grid>
+
+                                ))
+                            )}
                     </Grid>
                 </>
             )}
