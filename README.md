@@ -1,60 +1,70 @@
-# Google Map Companion
-[Stayfinder Demo](https://stayfinder-explore.netlify.app/)
+# Getting Started with Create React App
 
-**Location is Required for Loading of site**
+This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+## Available Scripts
 
-<img width="959" alt="Front" src="https://user-images.githubusercontent.com/72428146/229586410-e430acfa-b493-475e-be32-5d1745d026cf.png">
+In the project directory, you can run:
 
-Fully-responsive travel companion app built by combining **Google Maps API**, **Travel Advisor API**. Built using React.js and Material UI, this app can be used to search for places, fetch restaurant, hotels and attractions based on location.
+### `npm start`
 
-## Table of Contents
-- [Demo Videos](#demo-videos)
-- [Dependencies](#dependencies)
+Runs the app in the development mode.\
+Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
+The page will reload when you make changes.\
+You may also see any lint errors in the console.
 
-## Demo Videos
+### `npm test`
 
-### Demo
-- Search anywhere in earth for the restaurants , Hotels and attractions. [Default : User Location]
-- Filter by ratings
+Launches the test runner in the interactive watch mode.\
+See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
 
+### `npm run build`
 
-https://user-images.githubusercontent.com/72428146/227994167-1e6315cc-b9ee-4e36-a0d1-d28881f50d56.mp4
+Builds the app for production to the `build` folder.\
+It correctly bundles React in production mode and optimizes the build for the best performance.
 
+The build is minified and the filenames include the hashes.\
+Your app is ready to be deployed!
 
+See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
+### `npm run eject`
 
+**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
+If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
 
-## Dependencies
-- [React](https://reactjs.org/)
-- [google-map-react](https://github.com/google-map-react/google-map-react)
-- [@react-google-maps/api](https://react-google-maps-api-docs.netlify.app/)
-- [Axios](https://axios-http.com/docs/intro)
+Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
 
-<!---Technologies used: React.js, HTML/CSS, JavaScript, Node.js, and Material-UI library--->
-# App Functions 🗺:
-- Utilizes Google Maps API for geolocation and map features
+You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
 
-- Enables users to search for places based on location
+## Learn More
 
-- Uses specialized Rapid APIs to fetch information about restaurants, hotels, and attractions near the location
+You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
 
-- Allows data filtering to display relevant information based on user preferences
+To learn React, check out the [React documentation](https://reactjs.org/).
 
-- Provides an advanced Travel Advisor App experience for users
+### Code Splitting
 
-# Key Features 🔎:
-- Utilizes the latest technologies to provide a seamless user experience
+This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-- Provides relevant and accurate information about nearby places
+### Analyzing the Bundle Size
 
-- Offers users a personalized travel planning experience
+This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
 
-# Benefits 🏆:
-- Users can easily plan and organize their trips with the help of the app
+### Making a Progressive Web App
 
-- The app provides up-to-date and accurate information, saving users time and effort
+This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
 
-- The app's advanced features make it the best travel maps application available on the internet
+### Advanced Configuration
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+
+### Deployment
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
+
+### `npm run build` fails to minify
+
+This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
