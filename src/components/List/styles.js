@@ -18,5 +18,11 @@ export default makeStyles((theme) => ({
   },
   list: {
     height: '75vh', overflow: 'auto',
+  },
+  nodata:{
+    paddingTop :'50px',
+    fontFamily : "Verdana",
+    justifyContent: 'center',
+    alignItems: 'center',
   }
 }));
