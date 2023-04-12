@@ -13,7 +13,7 @@ Fully-responsive travel companion app built by combining **Google Maps API**, **
 - [Dependencies](#dependencies)
 
 
-## Demo Videos
+## Demo Videos 
 
 ### Demo
 - Search anywhere in earth for the restaurants , Hotels and attractions. [Default : User Location]
