@@ -33,7 +33,8 @@ https://user-images.githubusercontent.com/72428146/227994167-1e6315cc-b9ee-4e36-
 - [@react-google-maps/api](https://react-google-maps-api-docs.netlify.app/)
 - [Axios](https://axios-http.com/docs/intro)
 
-<!---Technologies used: React.js, HTML/CSS, JavaScript, Node.js, and Material-UI library--->
+# Technologies used: React.js, HTML/CSS, JavaScript, Node.js, and Material-UI library
+
 # App Functions 🗺:
 - Utilizes Google Maps API for geolocation and map features
 
