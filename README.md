@@ -53,7 +53,7 @@ https://user-images.githubusercontent.com/72428146/227994167-1e6315cc-b9ee-4e36-
 
 - Offers users a personalized travel planning experience
 
-# Benefits 🏆:
+# Benefits 🏆: 
 - Users can easily plan and organize their trips with the help of the app
 
 - The app provides up-to-date and accurate information, saving users time and effort
