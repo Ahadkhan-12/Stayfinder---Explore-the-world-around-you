@@ -10,7 +10,7 @@ Fully-responsive travel companion app built by combining **Google Maps API**, **
 
 ## Table of Contents
 - [Demo Videos](#demo-videos)
-- [Dependencies](#dependencies)
+- [Dependencies](#dependencies) 
 
 
 ## Demo Videos 
